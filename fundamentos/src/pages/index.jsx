@@ -6,7 +6,8 @@ export default function  Home() {
       <Navegador texto = "Estiloso" destino ="/estiloso"/>
       <Navegador texto = "Exemplo" destino ="/exemplo"/>
       <Navegador texto = "jsx" destino ="/jsx" cor= "crimson"/>
-
+      <Navegador texto = "Navegação #01" destino ="/navegacao" cor="green"/>
+      <Navegador texto = "Navegação #02" destino ="/cliente/123" cor="blue"/>
 
     </div>
   );
