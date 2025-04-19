@@ -17,5 +17,6 @@ function handlerGET(req,resp){
         id:3,
         nome: 'Ana',
         idade: 29,
+        
     })
 }
