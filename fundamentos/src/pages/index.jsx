@@ -8,6 +8,7 @@ export default function  Home() {
       <Navegador texto = "jsx" destino ="/jsx" cor= "crimson"/>
       <Navegador texto = "Navegação #01" destino ="/navegacao" cor="green"/>
       <Navegador texto = "Navegação #02" destino ="/cliente/123" cor="blue"/>
+      <Navegador texto = "Componente com Estado" destino ="/estado" cor="pink"/>
 
     </div>
   );
